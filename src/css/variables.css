@@ -1,0 +1,7 @@
+:root {
+    --heading-font:"Roboto", sans-serif;
+    --body-font:"Poppins", sans-serif;
+
+    --dark:hsl(257, 40%, 49%);
+    --soft:hsl(300, 69%, 71%);
+}
